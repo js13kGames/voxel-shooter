@@ -1,4 +1,7 @@
 ---
+genres:
+  - arcade
+  - casual
 post: https://indie-indian.blogspot.com/2012/09/js13kgames-and-voxel-shooter.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
